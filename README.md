@@ -1,4 +1,4 @@
-### Hola!  |  Hi there!👋
+.### Hola!  |  Hi there!👋
 
 <img src="./bannerGithub.png">
 
@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-767676?style=flat&logo=github&logoColor=181717)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwindcss&logoColor=61DAFB)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
 ##### Lo que estoy aprendiendo actualmente
 
