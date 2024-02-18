@@ -1,4 +1,4 @@
-.### Hola!  |  Hi there!👋
+### Hola!  |  Hi there!👋
 
 <img src="./bannerGithub.png">
 
