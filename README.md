@@ -27,7 +27,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwindcss&logoColor=61DAFB)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white)
-![Firestore]https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
 ##### Lo que estoy aprendiendo actualmente
