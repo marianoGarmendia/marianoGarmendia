@@ -1,6 +1,7 @@
 ### Hola!  |  Hi there!👋
 
-<img src="./bannerGithub-dos.png">
+<img src="./bg-img
+.png">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mariano_Garmendia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/mariano-garmendia-dev/) 
