@@ -1,7 +1,6 @@
 ### Hola!  |  Hi there!👋
 
-<img src="./bg-img
-.png">
+<img src="./bg-img.png">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mariano_Garmendia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/mariano-garmendia-dev/) 
@@ -11,8 +10,8 @@
 </a>
 #
 
-- 👨‍💻 Actualmente me encuentro creando proyectos personales con uso en la vida real, podras visitar mi portfolio para conocerlos
-- 📚 Aprendiendo tecnologias frontend y backend para formarme como Fullstack
+- 👨‍💻 Creando proyectos pensando en combinar la potencia de la tecnología con la simpleza de su uso.
+
 - 💪🏼 Futuros objetivos: Formar parte de un equipo donde aportar mi valor, creatividad, conocimientos y sobre todo energia y pasion por la programacion.
 
 ---
@@ -29,10 +28,6 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwindcss&logoColor=61DAFB)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-
-##### Lo que estoy aprendiendo actualmente
-
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Next.js](https://img.shields.io/badge/-Next.js-ddd?style=flat&logo=next.js&logoColor=000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
