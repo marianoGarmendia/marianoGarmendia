@@ -10,28 +10,11 @@
 </a>
 #
 
-- 👨‍💻 Creando proyectos pensando en combinar la potencia de la tecnología con la simpleza de su uso.
-
-- 💪🏼 Futuros objetivos: Formar parte de un equipo donde aportar mi valor, creatividad, conocimientos y sobre todo energia y pasion por la programacion.
-
+- AI Engineer en IT Patagonia
+- Langchain & Langgraph
 ---
 
-##### Lenguajes y tecnologías que uso
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-767676?style=flat&logo=github&logoColor=181717)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwindcss&logoColor=61DAFB)
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Next.js](https://img.shields.io/badge/-Next.js-ddd?style=flat&logo=next.js&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
 
